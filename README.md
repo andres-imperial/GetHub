@@ -1,6 +1,15 @@
 # GetHub
 Small application utilizing QT framework and Github api's
 
+### Compile/Install
++ Download/Clone GetHub repo to local machine.
+
+*Enter Following Commands*
++ `cd to/download/site/GetHub`
++ `qmake GetHub.pro`
++ `make`
++ `./GetHub`
+
 ### Use
 Type in a github username and hit the find button, displayed in the listwidget will be the user's repositories. 
 
