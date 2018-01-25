@@ -11,7 +11,7 @@ When an item in the tree widget is double clicked the associated url will be ope
 All actions and results are noted through the info line at the bottom of application.
 
 ### Dependencies
-  + nlohmann/json -- [https://github.com/nlohmann/json]  
+  + nlohmann/json -- [https://github.com/nlohmann/json] -- (Included through json.hpp)
   + mrtazz/restclient-cpp -- [https://github.com/mrtazz/restclient-cpp]
 
 ### Contact
